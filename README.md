@@ -2,6 +2,11 @@
 
 This is a Python project which uses Beautiful Soup to scrape billboard.com to find the hottest top 100 songs from an inputed date. The script creates a new playlist on Spotify and then adds Billboard100 songs from the specified date on it.
 
+This code was run on VS Code and the following packages were installed from the terminal:
+- pip install spotipy
+- pip install beautifulsoup4
+- pip install requests
+
 **Example**
 The code was run for the date 2022-01-01 and the screenshot below shows the results obtained.
 To see the hottest songs from 1 January 2022, go to https://www.billboard.com/charts/hot-100/2022-01-01/
