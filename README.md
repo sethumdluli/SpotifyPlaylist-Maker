@@ -9,7 +9,7 @@ This code was run on VS Code and the following packages were installed from the 
 
 **Example**
 The code was run for the date 2022-01-01 and the screenshot below shows the results obtained.
-To see the hottest songs from 1 January 2022, go to [Billboard Hot 100]{https://www.billboard.com/charts/hot-100/2022-01-01/}
+To see the hottest songs from 1 January 2022, go to [Billboard Hot 100](https://www.billboard.com/charts/hot-100/2022-01-01).
 
 ![result screenshot](https://github.com/sethumdluli/SpotifyPlaylist-Maker/blob/main/screenshot.png?raw=true)
 
